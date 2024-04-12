@@ -18,7 +18,7 @@ app = Flask(__name__)
 #striptags
 
 def index():
-    first_name = "John"
+    first_name = "Johnny Depp"
     stuff = "This is <strong> Bold</strong> text"
 
     favorite_pizza = ['pepperoni', 'cheese', 'mushrooms']
